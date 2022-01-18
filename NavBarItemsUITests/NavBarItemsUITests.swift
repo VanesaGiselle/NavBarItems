@@ -2,7 +2,7 @@
 //  NavBarItemsUITests.swift
 //  NavBarItemsUITests
 //
-//  Created by Emiliano on 11/01/2022.
+//  Created by Vanesa Korbenfeld on 11/01/2022.
 //
 
 import XCTest
